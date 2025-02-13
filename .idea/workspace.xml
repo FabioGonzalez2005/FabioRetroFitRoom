@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a29b5056-f6c5-4119-ae32-9f1c4906582d" name="Changes" comment="SearchScreen.kt" />
+    <list default="true" id="a29b5056-f6c5-4119-ae32-9f1c4906582d" name="Changes" comment="Importamos dependencias">
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,12 +73,12 @@
     &quot;assignee&quot;: &quot;FabioGonzalez2005&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/FabioGonzalez2005/RetroFit2Example.git&quot;,
-    &quot;accountId&quot;: &quot;c206ef48-e7a4-42fb-8908-52b1ce688cd5&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/FabioGonzalez2005/FabioRetroFitRoom.git",
+    "accountId": "c206ef48-e7a4-42fb-8908-52b1ce688cd5"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -196,12 +198,47 @@
       <option name="project" value="LOCAL" />
       <updated>1739440825622</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1739441389430</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739441389430</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Modificamos MainActivity.kt">
+      <option name="closed" value="true" />
+      <created>1739441444905</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739441444905</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creamos los datos">
+      <option name="closed" value="true" />
+      <created>1739441526320</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739441526320</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Importamos dependencias">
+      <option name="closed" value="true" />
+      <created>1739441563566</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739441563566</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial Commit" />
     <MESSAGE value="SearchScreen.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="SearchScreen.kt" />
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Modificamos MainActivity.kt" />
+    <MESSAGE value="Creamos los datos" />
+    <MESSAGE value="Importamos dependencias" />
+    <option name="LAST_COMMIT_MESSAGE" value="Importamos dependencias" />
   </component>
 </project>
